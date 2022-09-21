@@ -8,6 +8,8 @@ title: ""
 
 [Installation instructions](/installation_instructions)
 
+[Installation instructions2](installation_instructions.markdown)
+
 [Presentation](INTRODUCTION_TO_R.html)
 
 [Exercises](Exercises.pdf)
