@@ -8,7 +8,7 @@ title: ""
 
 [Installation instructions](/installation_instructions)
 
-[Course Materials](INTRODUCTION_TO_R.html)
+[Presentation](INTRODUCTION_TO_R.html)
 
 [Exercises](Exercises.pdf)
 
