@@ -6,7 +6,7 @@
     <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> --> 
 
     <div class="footer-col-wrapper">
-      <!-- <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -19,13 +19,14 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
-      </div> -->
+      </div>
 
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
 
       <div class="footer-col footer-col-3">
+        <a href="{{ site.url }}">{{ site.url }}</a>
         <!-- <p>{{- site.description | escape -}}</p> -->
       </div>
     </div>
