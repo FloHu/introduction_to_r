@@ -13,3 +13,5 @@ title: ""
 [Exercises](Exercises.pdf)
 
 [All data and materials](course_materials.zip)
+
+[Introduction to Bioconductor](Bioconductor_script_FH.html)
