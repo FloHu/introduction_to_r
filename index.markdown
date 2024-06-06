@@ -15,3 +15,5 @@ title: ""
 [All data and materials](course_materials.zip)
 
 [Introduction to Bioconductor](Bioconductor_script_FH.html)
+
+[Introduction to Bioconductor data](data_bioc.zip)
