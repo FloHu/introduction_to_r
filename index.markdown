@@ -6,14 +6,14 @@ layout: home
 title: ""
 ---
 
-[Installation instructions](installation_instructions.markdown)
+[R programming: Installation instructions](installation_instructions.markdown)
 
-[Presentation](INTRODUCTION_TO_R.html)
+[R programming: Presentation](INTRODUCTION_TO_R.html)
 
-[Exercises](Exercises.pdf)
+[R programming: Exercises](Exercises.pdf)
 
-[All data and materials](course_materials.zip)
+[R programming: All data and materials](course_materials.zip)
 
-[Introduction to Bioconductor](Bioconductor_script_FH.html)
+[Introduction to Bioconductor: Presentation](Bioconductor_script_FH.html)
 
-[Introduction to Bioconductor data](data_bioc.zip)
+[Introduction to Bioconductor: Data](data_bioc.zip)
