@@ -21,3 +21,5 @@ title: ""
 [Introduction to Machine Learning: Presentation](Introduction_to_ML_NEW.html)
 
 [Introduction to Machine Learning: Exercises](Exercises_ML.pdf)
+
+[Introduction to Machine Learning: Exercises](datasets_ml)
