@@ -22,4 +22,4 @@ title: ""
 
 [Introduction to Machine Learning: Exercises](Exercises_ML.pdf)
 
-[Introduction to Machine Learning: Exercises](datasets_ml)
+[Introduction to Machine Learning: Data](datasets_ml)
