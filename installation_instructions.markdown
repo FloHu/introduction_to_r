@@ -18,4 +18,6 @@ After installing R and RStudio please install the tidyverse, which is a collecti
 
 ```r
 install.packages("tidyverse")
+install.packages("readxl")
+install.packages("ggbeeswarm")
 ```
